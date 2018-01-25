@@ -9,7 +9,7 @@
     "serverless-domain-manager": "^2.2.1"
   },
   "scripts": {
-    "deploy" : "serverless deploy"
+    "deploy" : "serverless remove"
   },
   "author": "",
   "license": "ISC"
